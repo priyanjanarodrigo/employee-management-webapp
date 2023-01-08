@@ -1,0 +1,1 @@
+export const EMPLOYEE_SERVICE_BASE_URL: string = "http://localhost:8080/employees";
